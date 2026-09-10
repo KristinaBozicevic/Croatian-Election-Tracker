@@ -1,0 +1,279 @@
+{
+  "verifiedOn": "2026-09-10",
+  "leaders": {
+    "HDZ": [
+      {
+        "name": "Andrej Plenković",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrej_Plenkovi%C4%87",
+        "leadershipSources": [
+          "https://en.wikipedia.org/wiki/Andrej_Plenkovi%C4%87",
+          "https://vijesti.hrt.hr/hrvatska/plenkovic-inflacija-usporava-rodeno-653-djece-vise-nego-lani-12803211"
+        ],
+        "image": "/portraits/hdz.jpg",
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Andrej_Plenkovi%C4%87.jpg",
+        "author": "© European Union 2024 — European Commission",
+        "license": "EU attribution-only reuse",
+        "licenseUrl": "https://eur-lex.europa.eu/eli/dec/2011/833/oj",
+        "attribution": "© European Union 2024 — Source: European Commission. EU attribution-only reuse; via Wikimedia Commons."
+      }
+    ],
+    "SDP": [
+      {
+        "name": "Siniša Hajdaš Dončić",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Sini%C5%A1a_Hajda%C5%A1_Don%C4%8Di%C4%87",
+        "leadershipSources": [
+          "https://en.wikipedia.org/wiki/Sini%C5%A1a_Hajda%C5%A1_Don%C4%8Di%C4%87",
+          "https://vijesti.hrt.hr/hrvatska/hajdas-doncic-najavio-koaliciju-s-mozemo-u-listopadu-12801429"
+        ],
+        "image": "/portraits/sdp.jpg",
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Sini%C5%A1a_Hajda%C5%A1_Don%C4%8Di%C4%87_(cropped).jpg",
+        "author": "Social Democratic Party of Croatia",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "attribution": "Social Democratic Party of Croatia; CC BY 2.0; via Wikimedia Commons."
+      }
+    ],
+    "Mozemo": [
+      {
+        "name": "Sandra Benčić",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Sandra_Ben%C4%8Di%C4%87",
+        "leadershipSources": [
+          "https://vijesti.hrt.hr/hrvatska/bencic-danas-biramo-ljude-koji-ce-nas-voditi-do-pobjede-na-izborima-12618235"
+        ],
+        "image": "/portraits/mozemo-bencic.jpg",
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Sandra_Ben%C4%8Di%C4%87_portrait_2024_(cropped).jpg",
+        "author": "Timy Šarec",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attribution": "Timy Šarec; CC BY-SA 4.0; via Wikimedia Commons."
+      },
+      {
+        "name": "Tomislav Tomašević",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Tomislav_Toma%C5%A1evi%C4%87",
+        "leadershipSources": [
+          "https://vijesti.hrt.hr/hrvatska/bencic-danas-biramo-ljude-koji-ce-nas-voditi-do-pobjede-na-izborima-12618235"
+        ],
+        "image": "/portraits/mozemo-tomasevic.jpg",
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:The_Official_Photo_of_Tomislav_Toma%C5%A1evi%C4%87_(cropped).jpg",
+        "author": "Možemo!",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attribution": "Možemo!; CC BY-SA 4.0; via Wikimedia Commons."
+      }
+    ],
+    "Most": [
+      {
+        "name": "Nikola Grmoja",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikola_Grmoja",
+        "leadershipSources": [
+          "https://most-hrvatska.hr/2026/01/12/grmoja-plenkovic-i-mozemo-ne-razlikuju-se-po-politici/"
+        ],
+        "image": "/portraits/most.jpg",
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Nikola_Grmoja_2024.jpg",
+        "author": "Patrik Macek/PIXSELL",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "attribution": "Patrik Macek/PIXSELL; CC BY 3.0; via Wikimedia Commons."
+      }
+    ],
+    "DP": [
+      {
+        "name": "Ivan Penava",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivan_Penava",
+        "leadershipSources": [
+          "https://www.novilist.hr/novosti/penava-osobno-sam-zamolio-dabru-da-podnese-ostavku/"
+        ],
+        "image": "/portraits/dp.png",
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Ivan_Penava_28.06.2023.png",
+        "author": "PIXSELL",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "attribution": "PIXSELL; CC BY 3.0; via Wikimedia Commons."
+      }
+    ],
+    "DOMiNO": [
+      {
+        "name": "Mario Radić",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Mario_Radi%C4%87_(politician)",
+        "leadershipSources": [
+          "https://www.jutarnji.hr/vijesti/hrvatska/domino-trazi-ministarstvo-kulture-za-ulazak-u-koaliciju-15680412"
+        ],
+        "image": "/portraits/domino.png",
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Mario_Radi%C4%87.png",
+        "author": "PIXSELL",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "attribution": "PIXSELL; CC BY 3.0; via Wikimedia Commons."
+      }
+    ],
+    "PiP": [
+      {
+        "name": "Mislav Kolakušić",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Mislav_Kolaku%C5%A1i%C4%87",
+        "leadershipSources": [
+          "https://pravoipravda.hr/osnovana-gradska-organizacija-prava-i-pravde-u-zagrebu/",
+          "https://pravoipravda.hr/mislav-kolakusic/"
+        ],
+        "image": "/portraits/pip.jpg",
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Mislav_Kolaku%C5%A1i%C4%87.jpg",
+        "author": "Pravo i Pravda (Law and Justice)",
+        "license": "Attribution-only",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Mislav_Kolaku%C5%A1i%C4%87.jpg#Licensing",
+        "attribution": "Pravo i Pravda (Law and Justice); Attribution-only; via Wikimedia Commons."
+      }
+    ],
+    "HS": [
+      {
+        "name": "Marijan Pavliček",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Marijan_Pavli%C4%8Dek",
+        "leadershipSources": [
+          "https://suverenisti.hr/2025/10/26/u-vukovaru-odrzan-izborni-sabor-hrvatskih-suverenista/"
+        ],
+        "image": null,
+        "commonsUrl": null,
+        "author": null,
+        "license": null,
+        "licenseUrl": null,
+        "attribution": null
+      }
+    ],
+    "HSP": [
+      {
+        "name": "Marina Logarušić",
+        "wikipediaUrl": null,
+        "leadershipSources": [
+          "https://www.hsp.hr/predsjednistvo",
+          "https://www.hsp.hr/post/izabrano-vodstvo-zagreba%C4%8Dkog-hsp-a"
+        ],
+        "image": null,
+        "commonsUrl": null,
+        "author": null,
+        "license": null,
+        "licenseUrl": null,
+        "attribution": null
+      }
+    ],
+    "Drito": [
+      {
+        "name": "Marija Selak Raspudić",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Marija_Selak_Raspudi%C4%87",
+        "leadershipSources": [
+          "https://www.drito.hr/nas-tim/marija-selak-raspudic"
+        ],
+        "image": "/portraits/drito.jpg",
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Marija_Selak_Raspudi%C4%87.jpg",
+        "author": "Patrik Macek/PIXSELL",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "attribution": "Patrik Macek/PIXSELL; CC BY 3.0; via Wikimedia Commons."
+      }
+    ],
+    "IDS": [
+      {
+        "name": "Loris Peršurić",
+        "wikipediaUrl": "https://pl.wikipedia.org/wiki/Loris_Per%C5%A1uri%C4%87",
+        "leadershipSources": [
+          "https://www.glasistre.hr/istra/2026/02/14/odrzan-izborni-sabor-ids-a-izabran-novi-zamjenik-predsjednika-1050798"
+        ],
+        "image": null,
+        "commonsUrl": null,
+        "author": null,
+        "license": null,
+        "licenseUrl": null,
+        "attribution": null
+      }
+    ],
+    "NPS": [
+      {
+        "name": "Matija Posavec",
+        "wikipediaUrl": "https://hr.wikipedia.org/wiki/Matija_Posavec",
+        "leadershipSources": [
+          "https://vijesti.hrt.hr/hrvatska/posavec-u-hrvatskoj-treba-stvarati-i-jacati-politicki-centar-12597835"
+        ],
+        "image": null,
+        "commonsUrl": null,
+        "author": null,
+        "license": null,
+        "licenseUrl": null,
+        "attribution": null
+      }
+    ],
+    "Fokus": [
+      {
+        "name": "Gabrijel Deak",
+        "wikipediaUrl": null,
+        "leadershipSources": [
+          "https://hr.wikipedia.org/wiki/Fokus_(stranka)",
+          "https://vijesti.hrt.hr/hrvatska/gabrijel-deak-novi-predsjednik-stranke-fokus-11734654"
+        ],
+        "image": null,
+        "commonsUrl": null,
+        "author": null,
+        "license": null,
+        "licenseUrl": null,
+        "attribution": null
+      }
+    ],
+    "Centar": [
+      {
+        "name": "Marijana Puljak",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Marijana_Puljak",
+        "leadershipSources": [
+          "https://www.dalmacijanews.hr/clanak/puljak-nova-predsjednica-centra/",
+          "https://www.index.hr/vijesti/clanak/puljak-predstavila-platformu-metlahr-zelimo-doslovno-pomesti-hrvatsku/2828480.aspx"
+        ],
+        "image": "/portraits/centar.jpg",
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Marijana_puljak.jpg",
+        "author": "PIXSELL",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "attribution": "PIXSELL; CC BY 3.0; via Wikimedia Commons."
+      }
+    ],
+    "HSS": [
+      {
+        "name": "Darko Vuletić",
+        "wikipediaUrl": null,
+        "leadershipSources": [
+          "https://hss.hr/darko-vuletic-novi-je-predsjednik-hss-a/"
+        ],
+        "image": null,
+        "commonsUrl": null,
+        "author": null,
+        "license": null,
+        "licenseUrl": null,
+        "attribution": null
+      }
+    ],
+    "HSU": [
+      {
+        "name": "Marinko Lukenda",
+        "wikipediaUrl": null,
+        "leadershipSources": [
+          "https://hsu.hr/uncategorized/izabran-novi-predsjednik-hrvatske-stranke-umirovljenika/"
+        ],
+        "image": null,
+        "commonsUrl": null,
+        "author": null,
+        "license": null,
+        "licenseUrl": null,
+        "attribution": null
+      }
+    ],
+    "HNS": [
+      {
+        "name": "Krunoslav Lukačić",
+        "wikipediaUrl": null,
+        "leadershipSources": [
+          "https://vijesti.hrt.hr/hrvatska/lukacic-najavio-kandidaturu-za-novi-mandat-na-celu-hns-a-12787931"
+        ],
+        "image": null,
+        "commonsUrl": null,
+        "author": null,
+        "license": null,
+        "licenseUrl": null,
+        "attribution": null
+      }
+    ]
+  }
+}
